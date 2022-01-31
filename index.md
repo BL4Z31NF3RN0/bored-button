@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to Bored button BITS Pilani
 
-You can use the [editor on GitHub](https://github.com/BL4Z31NF3RN0/bored-button/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**if you are feeling bored click down below to read more on some interesting topics**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://medium.com/@f20211415/the-meta-verse-what-it-is-and-what-it-holds-for-us-5847306e8462)
+### want to play a game to pass time
+gravity centers
 
-### Markdown
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://codepen.io/akm2/full/rHIsa)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+oregon trail
 
-```markdown
-Syntax highlighted code block
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://archive.org/details/msdos_Oregon_Trail_The_1990)
 
-# Header 1
-## Header 2
-### Header 3
+pokemon showdown
 
-- Bulleted
-- List
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://pokemonshowdown.com/)
+### still bored
 
-1. Numbered
-2. List
+click down to get a recommendation on what movie you can watch to kill time
 
-**Bold** and _Italic_ and `Code` text
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://agoodmovietowatch.com/)
 
-[Link](url) and ![Image](src)
-```
+or
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+click here for a surprize
 
-### Jekyll Themes
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://www.boredbutton.com/)
+### are you on campus and hungry?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BL4Z31NF3RN0/bored-button/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+check out these cool places to eat:
 
-### Support or Contact
+malviya redi-bombay sandwich
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ram redi-samosa chat,sev chat
+
+vk redi-gulab jamun,cheese maggi
+
+cvr redi-Frankie,kachodi,Kotta cheese patty
+
+budh redi-fried maggi
+
+skylab-pizza sandwich
+
+kamal-good chinese
+
+annapurna-raj kachodi
+
+kapoor-tandoori momos
+
+nobles-egg curry and chicken biryani
+
+Da cafe crunch-pizza
